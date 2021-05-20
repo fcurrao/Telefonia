@@ -1,6 +1,8 @@
-public class Cliente {
+public class Llamada {
 
-    public class Cliente  (codigo_cliente: Int) {
+    public class Llamada  (codigo_cliente: Int) {
+    val
+       
     val nombre_cliente: String = ""
     val apellido_cliente: String = ""
     val fechadealta_cliente: String = ""
