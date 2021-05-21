@@ -13,6 +13,18 @@ public class Telefonia {
 
 
 
+class Factura {
+  	Double costoPorNoche;
+    Double costoPorFinDeSemana;
+   	Double costoPorllamadaInternacional;
+  
+  public static void main(String[] args) {
+    
+    System.out.println("Hello Codiva");
+    
+  }
+}
+
 
     class Costo() extends Llamada {
      val llamada_finde
