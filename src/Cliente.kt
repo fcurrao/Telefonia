@@ -4,7 +4,9 @@ public class Cliente {
     val nombre_cliente: String = ""
     val apellido_cliente: String = ""
     val fechadealta_cliente: String = ""
-
+	  String nombre;
+          int codigoCliente; 
+          byte tipoCliente;
 
  }
 }
